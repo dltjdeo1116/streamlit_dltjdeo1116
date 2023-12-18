@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 import plotly.express as px
-import seaborn as sns
 
 # 데이터 파일 로드
 df = pd.read_csv('data/학교급 및 시도별 학생 1인당 월평균 사교육비.csv', encoding='cp949')
