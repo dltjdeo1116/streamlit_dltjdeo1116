@@ -4,7 +4,6 @@ import os
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
 
 st.markdown("<h1 style='text-align: center;'>데이터 수집과 분석</h1>", unsafe_allow_html=True)
 st.divider()
